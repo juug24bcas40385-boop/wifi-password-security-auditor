@@ -144,4 +144,14 @@ This project is created for educational and internship purposes.
 varsha kn
 
 *Varsha KN*
+## Screenshots
+
+### Input
+
+![Input](input.png)
+
+### Output
+
+![Output](output.png)
+
 
